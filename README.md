@@ -1,3 +1,3 @@
 # linuxtips-descomplicando-sql
 
-Com databricks.
+Com databricks!
